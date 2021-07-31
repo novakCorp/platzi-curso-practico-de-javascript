@@ -1,0 +1,2 @@
+this is proof that the config worked in the local machine and it is connected
+to the global repository.
